@@ -1,6 +1,6 @@
 Game of Life- Keir Parker
 
-GOL_Class.py is a class containing the methods to simulate the Game of Life by John Horton Conway. GOL_Script.py is the script to run the simulation.
+GOL.py contains the methods to simulate the Game of Life by John Horton Conway as well as the script to run the simulation.
 
 Rules for the Game of Life are included in comments but for more information see the following link "https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life"
 
